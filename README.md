@@ -29,7 +29,7 @@
 
 
 
-<p align="left"> <a href="TheAxes@proton.me" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/984383210710507590/1021004329165013083/coinbase.png" alt="TheAxes@proton.me"/> test </a>
+<p align="left"> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/984383210710507590/1021004329165013083/coinbase.png" alt="TheAxes@proton.me" test /> </a>
 
 
 ![Coinbase](https://cdn.discordapp.com/attachments/984383210710507590/1021004329165013083/coinbase.png)
